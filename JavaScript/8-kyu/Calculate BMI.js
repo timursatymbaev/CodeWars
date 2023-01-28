@@ -1,0 +1,1 @@
+bmi = (weight, height) => (weight / Math.pow(height, 2)) > 30 ? 'Obese' : (weight / Math.pow(height, 2)) <= 30 && (weight / Math.pow(height, 2)) > 25 ? "Overweight" : (weight / Math.pow(height, 2)) <= 25 && (weight / Math.pow(height, 2)) > 18.5 ? "Normal" : "Underweight"
