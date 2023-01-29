@@ -1,0 +1,1 @@
+smash = words => words.join(' ')
