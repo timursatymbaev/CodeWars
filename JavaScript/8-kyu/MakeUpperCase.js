@@ -1,0 +1,1 @@
+makeUpperCase = str => str.toUpperCase()
