@@ -1,0 +1,1 @@
+reverseList = list => list.reverse()
