@@ -1,5 +1,6 @@
 # CodeWars
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Solutions for CodeWars. All of them were done on JavaScript programming language. Current rank: 3-kyu :trophy:
 
